@@ -1,0 +1,4 @@
+way to access console
+
+http://localhost:8080/h2-console
+use db: jdbc:h2:mem:testdb
