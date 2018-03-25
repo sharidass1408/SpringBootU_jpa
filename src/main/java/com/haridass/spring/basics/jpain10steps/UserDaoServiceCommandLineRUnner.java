@@ -10,10 +10,10 @@ import com.haridass.spring.basics.jpain10steps.entity.User;
 import com.haridass.spring.basics.jpain10steps.service.UserDAOService;
 
 @Component
-public class UserDaoServiceCommandLineRUnner implements CommandLineRunner{
+public class UserDaoServiceCommandLineRunner implements CommandLineRunner{
 	
 	private static final Logger log = 
-			LoggerFactory.getLogger(UserDaoServiceCommandLineRUnner.class);
+			LoggerFactory.getLogger(UserDaoServiceCommandLineRunner.class);
 	
 	
 	
